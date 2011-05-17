@@ -1,0 +1,8 @@
+DTS2AC3Converter - Installer
+****************************
+
+This is a script created for Mac OSX users.
+
+This script will automate the installation of all required libraries that used from mkvdts2ac3 bash script from JakeWharton 
+
+github.com/JakeWharton/mkvdts2ac3
