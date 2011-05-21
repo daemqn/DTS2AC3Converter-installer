@@ -76,8 +76,10 @@ sudo make install
 
 
 
-#- Several of Boost's libraries: "format", "RegEx", "filesystem",
-#  "system", "foreach" ( http://www.boost.org/ )
+####
+####Must install Several of Boost's libraries: "format", "RegEx", "filesystem", "system", "foreach" ( http://www.boost.org/ )
+####
+
 
 
 
