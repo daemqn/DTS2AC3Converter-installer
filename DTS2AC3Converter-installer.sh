@@ -11,9 +11,18 @@
 # www.macedonas.gr
 
 
+# PROCEDURE GOES THROUGH
+# 1.DOWNLOAD & INSTALL MACPORTS
+# 1.DOWNLOAD & INSTALL mkvtoolnix
+# 2.DOWNLOAD & INSTALL libdca
+# 3.DOWNLOAD & INSTALL aften
+# 4.DOWNLOAD & INSTALL rsync
+
+
+
 #Create the main folder of the script
 
-mkdir /DTS2AC3Converter
+mkdir DTS2AC3Converter
 
 
 #Install CMake
